@@ -1,0 +1,14 @@
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Node (nếu sau này dùng)
+node_modules/
+dist/
+
+# SourceTree / log
+*.log
