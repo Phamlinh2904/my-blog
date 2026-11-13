@@ -1,5 +1,5 @@
 # Sổ tay Web – Blog đơn giản
-
+# đây là git pull của bố 
 Blog tĩnh viết bằng HTML, CSS và JavaScript thuần. Không cần cài đặt hay build.
 
 ## Chạy thử
